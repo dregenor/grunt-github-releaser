@@ -6,6 +6,8 @@
  * Licensed under the MIT license.
  */
 
+// todo сделать нормальный вывод ошибок и чтение файла с ключиком и оеружение гита
+
 'use strict';
 
 var request = require('request'),
